@@ -1,0 +1,25 @@
+<annotation>
+	<folder>/home/ivan/Área de trabalho/2017/07/01/CCLU7677931</folder>
+	<filename>20170701002613002XS_stamp.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>16</ymin>
+			<xmax>430</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

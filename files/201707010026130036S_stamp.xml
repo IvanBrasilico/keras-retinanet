@@ -1,0 +1,38 @@
+<annotation>
+	<folder>CMAU0229732</folder>
+	<filename>201707010026130036S_stamp.jpg</filename>
+	<path>/home/ivan/Área de trabalho/2017/07/01/CMAU0229732/201707010026130036S_stamp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>305</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>29</ymin>
+			<xmax>232</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>31</ymin>
+			<xmax>499</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AMFU8520609</folder>
+	<filename>20170701002614001ZS_stamp.jpg</filename>
+	<path>/home/ivan/Área de trabalho/2017/07/01/AMFU8520609/20170701002614001ZS_stamp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>277</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>21</ymin>
+			<xmax>458</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BHCU3206386</folder>
+	<filename>20170701002614002ES_stamp.jpg</filename>
+	<path>/home/ivan/Área de trabalho/2017/07/01/BHCU3206386/20170701002614002ES_stamp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>215</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>24</ymin>
+			<xmax>373</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

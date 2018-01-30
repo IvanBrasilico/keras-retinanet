@@ -1,0 +1,38 @@
+<annotation>
+	<folder>BSIU2233056</folder>
+	<filename>20170701002613005FS_stamp.jpg</filename>
+	<path>/home/ivan/Área de trabalho/2017/07/01/BSIU2233056/20170701002613005FS_stamp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>374</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>33</ymin>
+			<xmax>451</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cc</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>33</ymin>
+			<xmax>217</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>/home/ivan/Área de trabalho/2017/07/01/APHU6535080</folder>
+	<filename>201707010026130070S_stamp.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>305</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>21</ymin>
+			<xmax>436</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

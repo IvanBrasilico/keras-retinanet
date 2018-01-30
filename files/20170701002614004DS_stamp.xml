@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BSIU2324834</folder>
+	<filename>20170701002614004DS_stamp.jpg</filename>
+	<path>/home/ivan/Área de trabalho/2017/07/01/BSIU2324834/20170701002614004DS_stamp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>265</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>32</ymin>
+			<xmax>348</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

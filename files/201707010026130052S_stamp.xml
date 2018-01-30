@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BMOU5759100</folder>
+	<filename>201707010026130052S_stamp.jpg</filename>
+	<path>/home/ivan/Área de trabalho/2017/07/01/BMOU5759100/201707010026130052S_stamp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>306</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>18</ymin>
+			<xmax>482</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

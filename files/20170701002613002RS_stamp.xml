@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CCLU6796638</folder>
+	<filename>20170701002613002RS_stamp.jpg</filename>
+	<path>/home/ivan/Área de trabalho/2017/07/01/CCLU6796638/20170701002613002RS_stamp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>254</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>10</ymin>
+			<xmax>504</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

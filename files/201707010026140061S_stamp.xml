@@ -1,0 +1,26 @@
+<annotation>
+	<folder>APZU3722747</folder>
+	<filename>201707010026140061S_stamp.jpg</filename>
+	<path>/home/ivan/Área de trabalho/2017/07/01/APZU3722747/201707010026140061S_stamp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>194</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>20</ymin>
+			<xmax>392</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

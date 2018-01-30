@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BMOU2231886</folder>
+	<filename>20170701002614001WS_stamp.jpg</filename>
+	<path>/home/ivan/Área de trabalho/2017/07/01/BMOU2231886/20170701002614001WS_stamp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>184</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>23</ymin>
+			<xmax>403</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

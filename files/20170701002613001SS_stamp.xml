@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CAIU8463385</folder>
+	<filename>20170701002613001SS_stamp.jpg</filename>
+	<path>/home/ivan/Área de trabalho/2017/07/01/CAIU8463385/20170701002613001SS_stamp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>347</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>20</ymin>
+			<xmax>460</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

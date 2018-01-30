@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CADU2041548</folder>
+	<filename>20170701002614002SS_stamp.jpg</filename>
+	<path>/home/ivan/Área de trabalho/2017/07/01/CADU2041548/20170701002614002SS_stamp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>156</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>15</ymin>
+			<xmax>405</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

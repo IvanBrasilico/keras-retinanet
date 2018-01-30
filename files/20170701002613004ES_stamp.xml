@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CLHU4534747</folder>
+	<filename>20170701002613004ES_stamp.jpg</filename>
+	<path>/home/ivan/Área de trabalho/2017/07/01/CLHU4534747/20170701002613004ES_stamp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>185</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>14</ymin>
+			<xmax>537</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>
