@@ -1,1 +1,1 @@
-python scripts/train.py csv keras-retinanet.csv classes.txt
+floyd run "git clone https://github.com/broadinstitute/keras-resnet && cd keras-resnet && pip install -e . && cd .. && python keras_retinanet/bin/train.py csv keras-retinanet.csv classes.txt"
